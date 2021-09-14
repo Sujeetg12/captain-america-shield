@@ -1,5 +1,3 @@
-
-# new update :a shield is rotating 
 import os
 print("""<!DOCTYPE html>
 <html lang="en">
